@@ -16,6 +16,9 @@ This Tic Tac Toe game allows two players to compete against each other in a clas
 3)Dynamic Turn Indicator: Shows whose turn it is
 4)Winner Announcement: Displays the winner when the game is won
 
+# Clone
+git clone https://github.com/rohanb1022/tic-tac-toe.git
+
 # Usage
 1)Start the game: Open index.html in your web browser.
 2)Make a move: Click on any empty cell to place your mark ('X' or 'O').
