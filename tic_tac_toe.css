@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    display: grid;
+}
+
+.heading {
+    color: aliceblue;
+    font-family: cursive;
+}
+
+.turner{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+.reset {
+    justify-self: center;
+    height: 50px;
+    width: 100px;
+}
+.reset:hover{
+    background-color: wheat;
+}
+.main{
+    margin-top: 10px;
+    height: 306px;
+    width: 306px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr; 
+    justify-self: center;
+}
+
+.box {
+    height:90px;
+    width: 100px;
+    background-color: rgb(216, 211, 172);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+    padding: 10px 10px 10px 10px;   
+}
